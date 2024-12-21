@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I am a **4th-year Engineering Student** currently pursuing a degree in **Software and Data Engineering** iat the **Faculty of Sciences of Bizerte** in Tunisia. My education spans **five intensive years**, focusing on mastering the art and science of software development, data engineering, and cutting-edge technologies.  
+I am a **4th-year Engineering Student** currently pursuing a degree in **Software and Data Engineering** at the **Faculty of Sciences of Bizerte** in Tunisia. My education spans **five intensive years**, focusing on mastering the art and science of software development, data engineering, and cutting-edge technologies.  
 
 My curriculum emphasizes:  
 - **Software Engineering:** Building robust and scalable software solutions.  

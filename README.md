@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I am a **4th-year Engineering Student** currently pursuing a degree in **Software and Data Engineering** at the **Faculty of Sciences of Bizerte** in Tunisia. My education spans **five intensive years**, focusing on mastering the art and science of software development, data engineering, and cutting-edge technologies.  
+I am a **5th-year Engineering Student** currently pursuing a degree in **Software and Data Engineering** at the **Faculty of Sciences of Bizerte** in Tunisia. My education spans **five intensive years**, focusing on mastering the art and science of software development, data engineering, and cutting-edge technologies.  
 
 My curriculum emphasizes:  
 - **Software Engineering:** Building robust and scalable software solutions.  
@@ -28,6 +28,9 @@ My curriculum emphasizes:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4E94CD?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### **Tools & Technologies**
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -39,6 +42,7 @@ My curriculum emphasizes:
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -52,7 +56,6 @@ My curriculum emphasizes:
 - **Machine Learning** and **Deep Learning** to solve real-world problems.
 - **Data Science** and **Data Engineering** for insightful analytics.
 - **Web Development** using modern frameworks and tools.
-- **Mobile/Desktop App Development** for cross-platform solutions.
 
 ---
 

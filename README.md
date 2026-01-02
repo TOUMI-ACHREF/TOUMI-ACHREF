@@ -7,6 +7,9 @@ My curriculum emphasizes:
 - **Data Science & AI:** Harnessing the power of machine learning and deep learning to extract insights and build intelligent systems.
 - **Web & Mobile Development:** Crafting seamless, user-friendly web and mobile applications.
 
+🌐 Discover my projects, skills, and experience on my portfolio:
+
+👉 https://toumi-achref.netlify.app/
 ---
 
 ## 🛠️ My Tech Stack
